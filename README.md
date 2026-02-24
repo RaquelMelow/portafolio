@@ -12,7 +12,6 @@ Este es mi portafolio personal desarrollado con HTML y CSS.
 Página web estática donde muestro información sobre mí, mis proyectos y formas de contacto.
 
 ## 🔗 Ver sitio online
-https://raquelmelow.github.io/RaquelMelo.github.io/
-
+https://raquelmelow.github.io/portafoliorepo/
 ## 👩‍💻 Autora
 Raquel Melo Dorta
